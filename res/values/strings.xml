@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BiscoitoDaSorte</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="acao_cadastrar">Cadastrar nova frase</string>
+    <string name="acao_listar">Listar frases</string>
+    <string name="acao_sortear">Peça sua frase</string>
+    <string name="frase_da_sorte">Peça sua frase!</string>
+    <string name="bt_frase">Sorte do Dia</string>
+    <string name="title_activity_cadastrar">Cadastrar nova frase</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+    <string name="title_activity_listagem">ListagemActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
